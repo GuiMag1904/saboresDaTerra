@@ -51,7 +51,6 @@ Sabores da Terra é um site que promove alimentos frescos, nutritivos e sustent�
 ## Licença
 
 ©Copyright - 2024
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais informações.
 
 ## Acesso
 
