@@ -135,6 +135,27 @@ h1 {
     height: 90vh;
 }
 
+/*----------------------Video----------------------*/
+
+#video {
+    width: 100%;
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    opacity: 0;
+    visibility: hidden;
+    position: fixed;
+}
+
+#youtube {
+    width: 80%;
+    height: 100%;
+}
+
+#youtube:hover {
+    box-shadow: 0px 0px 30px 10px rgba(0, 255, 117, 0.30);
+}
+
 /*----------------------Footer----------------------*/
 
 #footer {
@@ -266,7 +287,8 @@ label {
     animation: aparece 2s linear forwards;
 }
 
-#marcado:checked~#footer {
+#marcado:checked~#footer,
+#marcado:checked~#main #video {
     animation: aparece1 2s linear forwards;
 }
 
@@ -274,6 +296,7 @@ label {
 #marcado:not(:checked)~#main #pag3,
 #marcado:not(:checked)~#main #pag4,
 #marcado:not(:checked)~#main #links,
+#marcado:not(:checked)~#main #video,
 #marcado:not(:checked)~#footer {
     animation: some 2s linear forwards;
 }
@@ -354,26 +377,5 @@ label {
         visibility: visible;
         position: relative;
         bottom: 0;
-    }
-}
-
-@keyframes aparece2 {
-    0% {
-        opacity: 0;
-        visibility: hidden;
-    }
-
-    50% {
-        width: 100%;
-        height: 5rem;
-        opacity: 0;
-        visibility: hidden;
-        position: relative;
-    }
-
-    100% {
-        opacity: 1;
-        visibility: visible;
-        position: relative;
     }
 }
