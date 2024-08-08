@@ -8,27 +8,23 @@ Sabores da Terra é um site que promove alimentos frescos, nutritivos e sustent�
 
 ## Índice
 - [Descrição](#descrição)
-- [Estrutura do site](#estrutura)
+- [Páginas](#paginas)
 - [Recursos](#recursos)
 - [Imagens](#imagens)
 - [Criadores](#criadores)
 - [Licença](#licença)
 - [Acesso](#acesso)
 
-## Estrutura
+## Páginas
 
-### Seções Principais
-1. **Introdução**
-   - Descrição da missão do site.
-   
-2. **Alimentos do Campo**
-   - Benefícios nutricionais e de bem-estar.
-   
-3. **Conexão e Bem-Estar**
-   - Relação entre alimentação consciente e sustentabilidade.
-   
-4. **Sustentabilidade**
-   - Impactos ambientais positivos de consumir alimentos locais.
+### 1. Página Inicial
+A página inicial do site apresenta uma introdução ao projeto "Sabores da Terra". Ela destaca a missão de promover práticas agrícolas sustentáveis e o consumo de alimentos locais. Nessa página, os visitantes encontram informações sobre os principais objetivos do projeto e a relevância de consumir alimentos que respeitam o ciclo natural da terra.
+
+### 2. Do Campo à Mesa
+Esta página explora a jornada dos alimentos desde a fazenda até a mesa do consumidor. Ela destaca a importância de apoiar produtores locais e como isso pode contribuir para uma economia mais resiliente e sustentável. A página oferece insights sobre a cadeia de produção alimentar e os benefícios de escolher produtos cultivados na sua região.
+
+### 3. Sustentabilidade
+Nesta seção, o foco é a sustentabilidade nas práticas agrícolas. A página aborda como a adoção de métodos sustentáveis na agricultura, como a rotação de culturas e o uso de adubos orgânicos, pode ajudar a preservar a biodiversidade e a saúde do solo. Além disso, ela reforça a importância da conservação do meio ambiente e como os consumidores podem contribuir através de suas escolhas alimentares.
 
 ## Recursos
 - **Informações sobre alimentos locais e sazonais**: Aprenda sobre os benefícios de escolher alimentos locais e sazonais.
@@ -40,6 +36,10 @@ Sabores da Terra é um site que promove alimentos frescos, nutritivos e sustent�
 - Campos e colheitas.
 - Frutas e vegetais frescos.
 - Pessoas colhendo alimentos.
+
+Tecnologias Utilizadas
+- HTML5: Estrutura das páginas.
+- CSS3: Estilização, layout, interatividade e animações do site.
 
 ## Criadores
 
