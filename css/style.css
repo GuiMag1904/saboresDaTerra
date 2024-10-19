@@ -374,6 +374,7 @@ label {
 
     100% {
         opacity: 1;
+        height: auto;
         visibility: visible;
         position: relative;
         bottom: 0;
