@@ -1,6 +1,6 @@
 # Sabores da Terra
 
-Bem-vindo ao repositório oficial do [Sabores da Terra](https://0toco12.github.io/saboresDaTerra-2.0/).
+Bem-vindo ao repositório oficial do [Sabores da Terra](https://guimag1904.github.io/saboresDaTerra/).
 
 ## Descrição
 
