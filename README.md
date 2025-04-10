@@ -54,7 +54,7 @@ Tecnologias Utilizadas
 
 ## Acesso
 
-Visite o site [Sabores da Terra](https://0toco12.github.io/saboresDaTerra-2.0/) para começar a explorar. Use o menu de navegação para acessar diferentes seções do site e aprender mais sobre os benefícios dos alimentos locais e sazonais.
+Visite o site [Sabores da Terra](https://guimag1904.github.io/saboresDaTerra/) para começar a explorar. Use o menu de navegação para acessar diferentes seções do site e aprender mais sobre os benefícios dos alimentos locais e sazonais.
 
 ---
 
